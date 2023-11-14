@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">quiz_lab5</string>
+    <string name="question_1_what_is_kotlin">Question 1: What is Kotlin?</string>
+    <string name="a_programming_language">A programming language</string>
+    <string name="a_fruit">A fruit</string>
+    <string name="a_planet">A planet</string>
+    <string name="a_car_brand">A car brand</string>
+    <string name="question_2_which_are_kotlin_keywords">Question 2: Which are Kotlin keywords?</string>
+    <string name="val">val</string>
+    <string name="fun">fun</string>
+    <string name="apple">apple</string>
+    <string name="if">if</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
