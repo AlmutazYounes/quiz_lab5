@@ -3,7 +3,6 @@ package com.example.quiz_lab5
 import android.os.Bundle
 import android.widget.Button
 import android.widget.CheckBox
-import android.widget.RadioButton
 import android.widget.RadioGroup
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
