@@ -56,13 +56,13 @@ class MainActivity : AppCompatActivity() {
 
     private fun checkFirstQuestion(): Boolean {
         val selectedRadioButtonId = radioGroup.checkedRadioButtonId
-        val correctRadioButtonId = R.id.option1 // Replace with the correct answer ID
+        val correctRadioButtonId = R.id.option1
         return selectedRadioButtonId == correctRadioButtonId
     }
 
     private fun checkSecondQuestion(): Boolean {
-        val correctCheckBox1 = R.id.checkBox1 // Replace with the correct answer ID
-        val correctCheckBox2 = R.id.checkBox3 // Replace with the correct answer ID
+        val correctCheckBox1 = R.id.checkBox1
+        val correctCheckBox2 = R.id.checkBox3
         return checkBox1.isChecked && checkBox2.isChecked && !checkBox3.isChecked && checkBox4.isChecked
     }
 
